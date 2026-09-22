@@ -6,15 +6,15 @@ Proyecto Capstone es un trabajo integrador de final de carrera o programa que pe
 ## Capstone Intermedio 2026
 
 **Equipo:** EcoGest  
-**Desafío:** [Nombre breve del desafío]  
-**Contraparte:** [Organización o actor externo, si corresponde]  
+**Desafío:** Gestión y medición de residuos reciclables del Hub de Providencia 
+**Contraparte:** Hub Providencia  
 **Estado actual:** En desarrollo
 
 ![Foto del equipo](imagenes/S01/foto-equipo.jpg)
 
 ## Descripción
 
-[Expliquen en un párrafo qué problema están abordando, para quién y en qué contexto.]
+Nuestro grupo está abordando el desafío de la gestión y medición de los residuos reciclables del Hub Providencia. El problema principal es que actualmente se generan distintos tipos de residuos, pero no existe un sistema que permita saber de manera clara cuánto se genera, cuánto se recicla y cuál es su destino. Esto afecta tanto al equipo encargado de gestionar el Hub como a las personas que utilizan el edificio, ya que dificulta saber cómo se están manejando los residuos y qué aspectos podrían mejorarse. Por esto, buscamos una solución que permita registrar y medir los residuos de una manera sencilla, para así obtener información útil y fomentar mejores prácticas de reciclaje dentro del Hub.
 
 ## Equipo
 
@@ -38,8 +38,6 @@ Proyecto Capstone es un trabajo integrador de final de carrera o programa que pe
 1. Participación Activa: Todos los integrantes deben participar y aportar ideas durante el desarrollo del proyecto. 
 2. Toma de decisiones: Las decisiones importantes se tomarán mediante consenso del equipo.
 3. Resolución de conflictos: Cualquier diferencia se abordará mediante diálogo y buscando una solución que beneficie al equipo.
-4. [Cómo resolveremos desacuerdos]
-5. [Cómo registraremos las decisiones]
 
 ## Desafío inicial
 
@@ -53,20 +51,29 @@ Diseñar y validar, durante el proceso del desarrollo de este desafío actual, u
 
 | Integrante | Compromiso SMART |
 |---|---|
-| [Nombre] | [Compromiso] |
-| [Nombre] | [Compromiso] |
-| [Nombre] | [Compromiso] |
+| Benjamin Santibáñez | Analizar el proceso actual de gestión de residuos del Hub y aportar al menos 2 propuestas de mejora para facilitar su medición y seguimiento antes de la siguiente etapa del proyecto.|
+| Vicente Salas | Coordinar las actividades del equipo y apoyar la elaboración de la ficha del desafío, asegurando que la información recopilada quede organizada y disponible para todo el equipo. |
+| Matías Seguel | Registrar en la bitácora los avances y evidencias del proyecto, manteniendo actualizada la información correspondiente a cada actividad realizada por el equipo. |
+| Paloma Muñoz | Diseñar y mejorar la ficha/papelógrafo del desafío, incorporando de manera clara el problema, usuarios, objetivo y propuesta inicial antes de la presentación. |
+| Sebastián Ayala | Organizar la información y datos obtenidos durante el levantamiento inicial, proponiendo una estructura que permita registrar y comparar los residuos reciclables del Hub. |
 
 ## Usuarios y contexto
 
-[¿Quiénes viven el problema? ¿Dónde ocurre? ¿Qué evidencia tienen hasta ahora?]
+El problema ocurre principalmente en el Hub Providencia, donde se generan distintos tipos de residuos reciclables producto de las actividades desarrolladas en el edificio.
+
+Los principales usuarios relacionados con el problema son el equipo de gestión del Hub, los laboratorios y las personas usuarias del edificio, ya que participan directa o indirectamente en la generación, disposición y gestión de los residuos.
+
+Hasta ahora, el equipo ha identificado que no existe un sistema consolidado que permita registrar, medir y analizar periódicamente la cantidad de residuos reciclables generados y recuperados. Por esto, una de las necesidades principales es contar con información ordenada que permita conocer mejor el flujo de residuos y detectar oportunidades de reducción, reutilización y reciclaje.
 
 ## Plan inicial
 
 | Actividad | Responsable(s) | Fecha | Estado |
 |---|---|---|---|
-| [Actividad] | [Nombre] | [dd-mm-aaaa] | Pendiente |
-| [Actividad] | [Nombre] | [dd-mm-aaaa] | Pendiente |
+| Coordinar la presentación y apoyar con la ficha | Vicente Salas | Por definir | Realizado |
+| Analizar el proceso y apoyar con la ficha| Benjamín Santibáñez | Por definir | Realizado |
+| Apoyar con la ficha y registrar en la bitácora | Matias Seguel | Por definir | Realizado |
+| Diseño y elaboración de la ficha/papelógrafo| Paloma Muñoz | Por definir | Realizado |
+| Estructura de datos y apoyo con la ficha| Sebastián Ayala | Por definir | Realizado |
 
 ## Índice de la bitácora
 
@@ -74,20 +81,16 @@ Diseñar y validar, durante el proceso del desarrollo de este desafío actual, u
 - [S02 - Levantamiento inicial](bitacora/S02.md)
 - [S03 - Empatizar](bitacora/S03.md)
 
-## Evidencias principales
-
-- [Enlace a una prueba, fotografía, dato o documento]
-- [Enlace a una prueba, fotografía, dato o documento]
-
 ## Decisiones relevantes
 
 | Fecha | Decisión | Evidencia o criterio utilizado |
 |---|---|---|
-| [dd-mm-aaaa] | [Decisión] | [Evidencia] |
+| 18-08-2026 | Enfocar el proyecto en la gestión y medición de los residuos reciclables del Hub Providencia. | A partir de la observación del espacio y del análisis realizado por el grupo, identificamos la necesidad de conocer cómo se generan, gestionan y recuperan los residuos. |
 
 ## Próximo hito
 
-[Indiquen qué debe lograr el equipo a continuación y cómo comprobarán que lo consiguió.]
+El próximo hito del equipo será definir una propuesta inicial para registrar y medir los residuos reciclables del Hub Providencia. Para comprobar que se consiguió, debemos establecer qué datos se registrarán, cómo serán obtenidos y qué indicadores permitirán analizar los resultados.
+
 
 ## Uso y licencia
 
